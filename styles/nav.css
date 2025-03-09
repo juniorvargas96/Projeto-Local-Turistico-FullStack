@@ -1,0 +1,39 @@
+#profile p:nth-child(1) {
+  font: var(--text-hd);
+  color: var(--text-headline);
+  text-transform: uppercase;
+  
+  max-width: 1120px;
+  display: block;
+  margin: 0 auto;
+  
+}
+
+h1 {
+  font: var(--text-h1);
+  color: var(--text-primary);
+  
+  max-width: 1120px;
+  display: block;
+  margin: 8px auto 40px;
+}
+
+#imagem1 {
+  max-width: 1120px;
+  max-height: 660px;
+  display: block;
+  margin: 0 auto 24px;
+}
+
+#textop1 {
+  font: var(--text-sub);
+  color: var(--text-secondary);
+  text-align: center;
+  margin: 24px auto 44px;
+}
+
+#divisor1 {
+  max-width: 1120px;
+  display: block;
+  margin: 0 auto 24px;
+}
