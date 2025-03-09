@@ -18,14 +18,14 @@
   --accent-pink: #e5245e;
   --accent-purple: #591b98;
 
-  --font-footer: "Alice", serif;
+  --font: "Alice", serif;
   --font-family: "Open Sans", sans-serif;
   --text-h1: bold 36px var(--font-family);
   --text-h2: bold 32px var(--font-family);
   --text-h3: bold 28px var(--font-family);
   --text-hd: bold 16px var(--font-family);
   --text-pg: 16px var(--font-family);
-  --text-ft: 16px var(--font-footer);
+  --text-ft: 16px var(--font);
   --text-sub: italic 16px var(--font-family);
 
 }
